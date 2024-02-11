@@ -1,1 +1,2 @@
 This data set provides some examples to test the efficiency of our algorithm.
+Each text file represents a point cloud data, which contains the three-dimensional coordinates and normal vector information for the point cloud, and the last dimension represents the category of a point.
