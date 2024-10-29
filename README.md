@@ -1,6 +1,6 @@
 # Octree-based-Region-Growing
 This is an undergraduate graduation design project, the purpose is to get familiar with point cloud segmentation and lay a foundation for further study in this field.
-Our project is based on [this work]{https://github.com/lupeterm/OBRG-Py}, which reproduces the basic ideas of the paper very well. Our code has been updated in terms of flatness detection, refinement process, etc., and a 26-neighbor voxel search algorithm has been introduced.
+Our project is based on [this work](https://github.com/lupeterm/OBRG-Py), which reproduces the basic ideas of the paper very well. Our code has been updated in terms of flatness detection, refinement process, etc., and a 26-neighbor voxel search algorithm has been introduced.
 
 # Table of Contents
 - [Execution Specification](#ExecutionSpecification) 
